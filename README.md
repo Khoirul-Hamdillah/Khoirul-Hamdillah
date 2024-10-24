@@ -1,38 +1,57 @@
-## Hello, i'am Muhammad Khoirul Hamdillah
-## PageSpeed Insights
-![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## Tech Used
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+###
 
-[![image](https://user-images.githubusercontent.com/81325730/209995550-63bdb319-f8fd-4383-bcfc-9021c4bc5642.png)](https://vercel.com/?utm_source=team_vishwagauravin&utm_campaign=oss)
+<p align="left">My name is Muhammad Khoirul Hamdillah and I'm a Student, from Electrical Engineering University of Sultan Ageng Tirtayasa</p>
 
-<details>
-<summary>
-  NextJS Guide
-</summary>
+###
 
-## Getting Started
+<h2 align="left">😁 About me</h2>
 
-First, run the development server:
+###
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="left">📚 I'm currently learning Python Languange<br>🎯 Goals: <br>🎲 Fun fact: I'am multitalenan people</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+###
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<h2 align="left">✨ I code with</h2>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+###
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h2 align="left">⚡ My stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khoirul-Hamdillah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khoirul-Hamdillah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Khoirul-Hamdillah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left">🎵 My music</h2>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31kqo5xnpxeygv66ww2ss6atuixm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqo5xnpxeygv66ww2ss6atuixm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
